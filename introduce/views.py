@@ -8,4 +8,4 @@ def introduce(request):
     new_log.save()
     return render(request, 'introduce.html')
 
-# test
+# test2
